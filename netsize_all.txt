@@ -1,0 +1,14 @@
+El numero de filas y columnas de n1.txt son: 97, .
+El numero de filas y columnas de n10.txt son: 14, .
+El numero de filas y columnas de n11.txt son: 270, .
+El numero de filas y columnas de n12.txt son: 7, .
+El numero de filas y columnas de n13.txt son: 61, .
+El numero de filas y columnas de n14.txt son: 35, .
+El numero de filas y columnas de n15.txt son: 38, .
+El numero de filas y columnas de n16.txt son: 118, .
+El numero de filas y columnas de n17.txt son: 76, .
+El numero de filas y columnas de n18.txt son: 13, .
+El numero de filas y columnas de n19.txt son: 10, .
+El numero de filas y columnas de n2.txt son: 62, .
+El numero de filas y columnas de n20.txt son: 18, .
+El numero de filas y columnas de n21.txt son: 19, .
