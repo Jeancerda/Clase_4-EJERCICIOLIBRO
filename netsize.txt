@@ -1,0 +1,1 @@
+ el numero de filas y columnas de n1.txt son: 97,80 .
